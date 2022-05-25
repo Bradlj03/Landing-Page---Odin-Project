@@ -58,14 +58,14 @@ h1{
     text-decoration: none; 
 }
 .secondSection_container{
-	height: 500px;
+	height: 300px;
+	width: 800px;
 	display:flex;
+	row-gap:none;
 	align-items: center;
 	justify-content:space-between;
-	gap: 10px;
-	padding-left: 65px;
-	padding-right: 65px;
-	margin-top: 0px;
+	margin-left: 100px;
+	margin-right: 100px;
 
 		
 }
@@ -95,9 +95,10 @@ h1{
 	border-radius: 10px;
 	box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 	justify-content: center;
+}
 
-	
-
+.thirdSelection_container p{
+	color: black;
 }
 
 
