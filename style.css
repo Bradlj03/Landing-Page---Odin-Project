@@ -125,19 +125,42 @@ h1{
 	display: flex;
 	flex: row;
 	height: 150px;
-	width: 200px;
+	width: 150px;
 	border-style: solid;
-	border-color: blue;
-	border-width: thin;
+	border-color:#3882F6;
+	border-width:medium;
 	border-radius: 25px;
 	background-color: white;
 }
 /* Dont forget everything in HTML is practically a box. 
 I solved the width problem of my text below, by putting everything into a transparent box!*/
 .thirdSection_container .text{
-	width: 200px;
+	width: 150px;
 	text-align: center;
 }
+
+.qouteSection{
+background-color:#E5E7EB;
+width: 100%;
+height: 300px;
+}
+/*36px light italic #1F2937*/
+.qouteText{
+	height: 300px;
+	width: 800px;
+	color:#1F2937;
+	font-size: 36px;
+	font-style: italic;
+	font-weight:300;
+	padding: 100px;
+	padding-left: 400px;
+
+}
+
+
+
+
+
 
 
 
