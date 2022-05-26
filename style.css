@@ -117,6 +117,14 @@ h1{
 	border-radius: 25px;
 	background-color: white;
 }
+/* Dont forget everything in HTML is practically a box. 
+I solved the width problem of my text below, by putting everything into a transparent box!*/
+.thirdSection_container .text{
+	width: 200px;
+	text-align: center;
+}
+
+
 
 
 
