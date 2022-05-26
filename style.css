@@ -142,7 +142,7 @@ I solved the width problem of my text below, by putting everything into a transp
 .qouteSection{
 background-color:#E5E7EB;
 width: 100%;
-height: 300px;
+height: 400px;
 }
 /*36px light italic #1F2937*/
 .qouteText{
@@ -154,7 +154,10 @@ height: 300px;
 	font-weight:300;
 	padding: 100px;
 	padding-left: 400px;
+}
 
+.signature{
+	color:#1F2937;
 }
 
 
