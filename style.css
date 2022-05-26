@@ -1,6 +1,7 @@
 body{
 	background-color: #1f2937;
 	margin: 0px;
+	
 
 }
 h1{
@@ -158,6 +159,50 @@ height: 400px;
 
 .signature{
 	color:#1F2937;
+}
+
+.fourthSection{
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 400px;
+	width: 100%;
+
+
+}
+.fourthSection_BlueBox{
+	height:100px;
+	width: 700px;
+	background-color: #3882F6;
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+	text-align: center;
+	padding-top: 75px;
+}
+
+.signUp2{
+	height:175px;
+	width: 300px;
+	background-color: #3882F6;
+	border-left:#3882f6 ;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	
+}
+
+.callToAction{
+	color: whitesmoke;
+	font-size: 24px;
+}
+
+.SignUpText{
+	color:whitesmoke;
+}
+
+.signUp2{
+	color: whitesmoke;
+	font-size: 24px;
 }
 
 
